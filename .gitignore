@@ -5,7 +5,7 @@ __pycache__/
 *.so
 .Python
 env/
-.env/
+.env
 venv/
 .venv/
 ENV/
